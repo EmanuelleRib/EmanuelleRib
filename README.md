@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩🏻‍💻 Emanuelle Ribeiro
 
-<!--
-**EmanuelleRib/EmanuelleRib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analisa de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Emanuelle Pereira Ribeiro, sou formada em Ciência da Computação e pós-graduanda em Inteligência Artificial Aplicada à Ciência de Dados. Atualmente, atuo como estagiária no Conselho Federal de Contabilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+  />
+
+
+<br/>
+<br/>
+
+---
+
