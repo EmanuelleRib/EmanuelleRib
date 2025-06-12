@@ -2,7 +2,7 @@
 
 **`Analisa de Dados`**
 
-Me chamo Emanuelle Pereira Ribeiro, sou formada em Ciência da Computação e pós-graduanda em Inteligência Artificial Aplicada à Ciência de Dados. Atualmente, atuo como estagiária no Conselho Federal de Contabilidade.
+Me chamo Emanuelle Pereira Ribeiro, sou formada em Ciência da Computação e pós-graduanda em Inteligência Artificial Aplicada à Ciência de Dados. Atualmente, atuo no Conselho Federal de Contabilidade.
 
 ---
 
