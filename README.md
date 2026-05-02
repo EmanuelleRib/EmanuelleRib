@@ -28,6 +28,9 @@ Tenho experiência com modelagem de dados, construção de indicadores e visuali
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
   />
 
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+
+<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" />
 
 <br/>
 <br/>
