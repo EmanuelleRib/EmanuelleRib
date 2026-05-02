@@ -1,10 +1,12 @@
-# 👩🏻‍💻 Emanuelle Ribeiro
+👩🏻‍💻 Emanuelle Ribeiro
 
-**`Analisa de Dados`**
+Analista de Dados | BI | Data Science
 
-Me chamo Emanuelle Pereira Ribeiro, sou formada em Ciência da Computação e pós-graduanda em Inteligência Artificial Aplicada à Ciência de Dados. Atualmente, atuo no Conselho Federal de Contabilidade.
+Sou formada em Ciência da Computação e pós-graduada em Inteligência Artificial aplicada à Ciência de Dados.
+Atuo como Analista de BI no setor público, desenvolvendo dashboards estratégicos, automações e análises de dados para apoio à tomada de decisão.
 
----
+
+Tenho experiência com modelagem de dados, construção de indicadores e visualização de informações, sempre buscando transformar dados em insights claros e úteis.
 
 ### 🤖 Linguagens e Tecnologias
 
